@@ -10,6 +10,7 @@
   - Resizing
   - Deleting
   - Advanced Color Palette
+  - Move references from the old repo
   
 - Bugs:
   - Image size after loading
