@@ -1,9 +1,10 @@
 # Rects
 ### Progress
-Load/Save/Add rect DONE
-Todo: 
-Selecting
-Changing position
-Resizing
-Deleting
-Changing color
+- DONE
+  - Load/Save/Add rect 
+- Todo: 
+  - Selecting
+  - Changing position
+  - Resizing
+  - Deleting
+  - Changing color
