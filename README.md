@@ -24,7 +24,7 @@
   - Black stroke after saving 
   - Drag issue (delta_x was typoed to delta_y)
 
-### References:
+### References: (NO Code from the references )
 - Tools:
   - Chat-GPT
   - MicroSoft offical docs https://learn.microsoft.com/en-us/dotnet/api/system.windows.media.stretch?view=windowsdesktop-7.0
