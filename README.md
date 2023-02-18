@@ -27,7 +27,7 @@
 ### References:
 - Tools:
   - Chat-GPT
-  - MicroSoft offical docs
+  - MicroSoft offical docs https://learn.microsoft.com/en-us/dotnet/api/system.windows.media.stretch?view=windowsdesktop-7.0
   - Google
   - Stack Overflow
   - Online forums
