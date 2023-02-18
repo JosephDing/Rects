@@ -17,6 +17,7 @@
   - Image size after loading SOLVED
   - Black stroke after saving SOLVED
   - Drag issue SOLVED (delta_x was typoed to delta_y)
+  - Saved photo looks a bit different from the original one. 
 
 - Bugs SOLVED:
   - Image size after loading (By aspect ratio + stretch Uniform)
