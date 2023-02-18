@@ -24,7 +24,7 @@
   - Black stroke after saving 
   - Drag issue (delta_x was typoed to delta_y)
 
-### References: (NO Code from the references )
+### References: (NO Code from the references EXCEPT resizing... )
 - Tools:
   - Chat-GPT
   - MicroSoft offical docs https://learn.microsoft.com/en-us/dotnet/api/system.windows.media.stretch?view=windowsdesktop-7.0
@@ -33,6 +33,9 @@
   - Online forums
 
 - Links
+    Resizing extra class
+    https://blog.csdn.net/u013113678/article/details/121466724
+
     Canvas tutorial 
     https://wpf-tutorial.com/panels/canvas/
 
